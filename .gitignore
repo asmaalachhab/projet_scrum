@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.*
+.DS_Store
+
+smart-fan-2030-full-db/node_modules
+smart-fan-2030-full-db/node_modules/
